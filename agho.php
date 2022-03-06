@@ -1,0 +1,3 @@
+<?php
+Include "../../../zyo.php"
+?>
